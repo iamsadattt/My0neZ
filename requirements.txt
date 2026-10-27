@@ -16,3 +16,4 @@ pytest-cov==7.0.0
 ruff==0.14.0
 dj-database-url>=2.3.0
 psycopg[binary]==3.3.6
+openai>=1.0.0
